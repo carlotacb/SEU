@@ -7,3 +7,5 @@ En este repositorio podeis encontrar las practicas de [Sistemes Encastats i Ubic
 - [Laboratorio 1: Introducció al mbed](/Laboratorio-1)
 - [Laboratorio 2: Processament de senyal amb ADC](/Laboratorio-2)
 - [Laboratorio 3: Sortides amb PWM](/Laboratorio-3)
+- [Laboratorio 4: Comunicació amb BUS CAN](/Laboratorio-4)
+- [Laboratorio 5: RTOS](/Laboratorio-5)
